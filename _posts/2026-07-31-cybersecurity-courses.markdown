@@ -9,17 +9,21 @@ I kept exploring other cybersecurity courses while studying and after graduating
 
 - Santander Open Academy Course: *Cybersecurity for All* with Poznań University of Technology
 
-Studied ???
+Studied best practicies regarding password managers, home Wi-Fi setup and [more](https://app.santanderopenacademy.com/pl/program/cyberbezpieczenstwo-dla-kazdego-2024).
 
 <iframe src="{{ '/resources/certificates/santander-pp-cfa.pdf' | relative_url }}" style="width: 100%; aspect-ratio: 1.41 / 1;">
 </iframe>
 
-- Cisco Networking Academy: *Introduction to Cybersecurity*
+- Cisco Networking Academy
 
-Currently on patgh ???
+Currently I am following the Junior Cybersecurity Analyst Career Path from Cisco Networking Academy. I brush up on my knowledge in Network Security.
 
 <div style="text-align: center;">
   <div data-iframe-width="270" data-iframe-height="270" data-share-badge-id="951e18a3-ad6d-4dab-9c05-7a5ba81e739b" data-share-badge-host="https://www.credly.com"></div>
 </div>
 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-https://app.santanderopenacademy.com/pl/program/cyberbezpieczenstwo-dla-kazdego-2024
+
+<div style="text-align: center;">
+  <div data-iframe-width="270" data-iframe-height="270" data-share-badge-id="f1b749db-aa6e-46fd-9516-fa6a7f1c0653" data-share-badge-host="https://www.credly.com"></div>
+</div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
