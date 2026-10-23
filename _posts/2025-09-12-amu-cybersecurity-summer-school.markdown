@@ -11,5 +11,5 @@ I worked as an assistant to the lecturer at [AMU](https://amu.edu.pl/) Cybersecu
 
 [Special guest James Shires' post about the event.](https://virtual-routes.org/adam-mickiewicz-university-holds-google-org-cybersecurity-summer-school/)
 
-<iframe src="{{ '/resources/certificates/amu-cybersecurity-summer-school.pdf' | relative_url }}" style="width: 100%; aspect-ratio: 1.41 / 1;">>
+<iframe src="{{ '/resources/certificates/amu-cybersecurity-summer-school.pdf' | relative_url }}" style="width: 100%; aspect-ratio: 1.41 / 1;">
 </iframe>

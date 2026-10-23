@@ -8,5 +8,5 @@ categories:  writing
 ## Secret Sharing and Secure Multiparty Computation on the Cryptographic Auction Platform \"Aukciszek\"
 
 <a href="{{ '/resources/masters-thesis.pdf' | relative_url }}">Download PDF.</a>
-<iframe src="{{ '/resources/masters-thesis.pdf' | relative_url }}" style="width: 100%; aspect-ratio: 1 / 1.41;">>
+<iframe src="{{ '/resources/masters-thesis.pdf' | relative_url }}" style="width: 100%; aspect-ratio: 1 / 1.41;">
 </iframe>
