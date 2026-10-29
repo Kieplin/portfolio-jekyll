@@ -26,5 +26,7 @@ Currently I am following the Junior Cybersecurity Analyst Career Path from Cisco
 
   <div data-iframe-width="262" data-iframe-height="270" data-share-badge-id="a0c11664-80c5-4cf7-9d1f-9a0bc95abf16" data-share-badge-host="https://www.credly.com"></div>
   
+  <div data-iframe-width="262" data-iframe-height="270" data-share-badge-id="d1a50837-d25d-498d-bdc1-afb882255272" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 </div>
 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
